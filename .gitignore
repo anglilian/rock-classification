@@ -1,5 +1,6 @@
 .venv
 
+Dataset*
 img/Dataset
 img/output
 img/img.zip
